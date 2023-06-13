@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Bruce Williamson",
+      "id": 5
+    },
+    {
+      "name": "Cheryl Simonis",
+      "id": 6
+    },
+    {
+      "name": "Jasmine Satterfield",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Practical Wooden Soap",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "title": "Incredible Bronze Cheese",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Cotton Hat",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "title": "Bespoke Cotton Hat",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "title": "Rustic Frozen Bike",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "title": "Bespoke Fresh Sausages",
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "title": "Rustic Soft Car",
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "title": "Elegant Cotton Keyboard",
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "title": "Handcrafted Steel Cheese",
+      "id": 9
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/640/480?lock=1990720523075584",
+      "id": 4
+    },
+    {
+      "albumId": 3,
+      "url": "https://picsum.photos/seed/pzyuSG/640/480",
+      "id": 8
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/640/480?lock=4888142230323200",
+      "id": 9
+    },
+    {
+      "albumId": 7,
+      "url": "https://picsum.photos/seed/UVC2xDcD/640/480",
+      "id": 11
+    }
+  ]
+}
