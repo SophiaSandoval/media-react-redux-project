@@ -1,3 +1,6 @@
+# Project Prview
+https://github.com/SophiaSandoval/media-react-redux-project/assets/89662198/bdf16b9d-cc3b-468a-9f67-03ef5ed4114d
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
